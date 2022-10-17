@@ -1,4 +1,4 @@
-module github.com/goreleaser/nfpm/v2
+module github.com/defanator/nfpm
 
 go 1.19
 
