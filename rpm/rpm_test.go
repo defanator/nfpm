@@ -16,7 +16,7 @@ import (
 	"github.com/caarlos0/go-rpmutils/cpio"
 	"github.com/goreleaser/chglog"
 	"github.com/goreleaser/nfpm/v2"
-	"github.com/goreleaser/nfpm/v2/files"
+	"github.com/defanator/nfpm/v2/files"
 	"github.com/stretchr/testify/require"
 )
 

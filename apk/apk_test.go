@@ -16,7 +16,7 @@ import (
 	"testing"
 
 	"github.com/goreleaser/nfpm/v2"
-	"github.com/goreleaser/nfpm/v2/files"
+	"github.com/defanator/nfpm/v2/files"
 	"github.com/goreleaser/nfpm/v2/internal/sign"
 	"github.com/stretchr/testify/require"
 )
