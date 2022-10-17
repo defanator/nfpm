@@ -9,7 +9,7 @@ import (
 
 	"github.com/AlekSi/pointer"
 	"github.com/ProtonMail/gopenpgp/v2/crypto"
-	"github.com/goreleaser/nfpm/v2"
+	"github.com/defanator/nfpm/v2"
 	"github.com/stretchr/testify/require"
 )
 

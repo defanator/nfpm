@@ -5,7 +5,7 @@ import (
 	"os"
 	"runtime/debug"
 
-	"github.com/goreleaser/nfpm/v2/internal/cmd"
+	"github.com/defanator/nfpm/v2/internal/cmd"
 )
 
 // nolint: gochecknoglobals

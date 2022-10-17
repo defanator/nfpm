@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/goreleaser/nfpm/v2"
+	"github.com/defanator/nfpm/v2"
 	"github.com/invopop/jsonschema"
 	"github.com/spf13/cobra"
 )

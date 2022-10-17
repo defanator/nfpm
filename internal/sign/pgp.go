@@ -13,7 +13,7 @@ import (
 	"github.com/ProtonMail/go-crypto/openpgp"
 	"github.com/ProtonMail/go-crypto/openpgp/clearsign"
 	"github.com/ProtonMail/go-crypto/openpgp/packet"
-	"github.com/goreleaser/nfpm/v2"
+	"github.com/defanator/nfpm/v2"
 )
 
 // PGPSigner returns a PGP signer that creates a detached non-ASCII-armored

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/goreleaser/nfpm/v2"
+	"github.com/defanator/nfpm/v2"
 	"github.com/defanator/nfpm/v2/files"
 	"github.com/klauspost/pgzip"
 	"github.com/stretchr/testify/require"

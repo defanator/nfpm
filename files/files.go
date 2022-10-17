@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/goreleaser/nfpm/v2/internal/glob"
+	"github.com/defanator/nfpm/v2/internal/glob"
 )
 
 // Content describes the source and destination

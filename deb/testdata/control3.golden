@@ -7,4 +7,4 @@ Maintainer: Carlos A Becker <pkg@carlosbecker.com>
 Installed-Size: 10
 Homepage: http://carlosbecker.com
 Description: Foo does things
-Bugs: https://github.com/goreleaser/nfpm/issues
+Bugs: https://github.com/defanator/nfpm/issues

@@ -12,10 +12,10 @@ import (
 	"time"
 
 	"github.com/goreleaser/chglog"
-	"github.com/goreleaser/nfpm/v2"
+	"github.com/defanator/nfpm/v2"
 	"github.com/defanator/nfpm/v2/files"
-	"github.com/goreleaser/nfpm/v2/internal/rpmpack"
-	"github.com/goreleaser/nfpm/v2/internal/sign"
+	"github.com/defanator/nfpm/v2/internal/rpmpack"
+	"github.com/defanator/nfpm/v2/internal/sign"
 )
 
 const (

@@ -11,11 +11,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/goreleaser/nfpm/v2"
-	_ "github.com/goreleaser/nfpm/v2/apk"
-	_ "github.com/goreleaser/nfpm/v2/arch"
-	_ "github.com/goreleaser/nfpm/v2/deb"
-	_ "github.com/goreleaser/nfpm/v2/rpm"
+	"github.com/defanator/nfpm/v2"
+	_ "github.com/defanator/nfpm/v2/apk"
+	_ "github.com/defanator/nfpm/v2/arch"
+	_ "github.com/defanator/nfpm/v2/deb"
+	_ "github.com/defanator/nfpm/v2/rpm"
 	"github.com/stretchr/testify/require"
 )
 

@@ -19,9 +19,9 @@ import (
 
 	"github.com/blakesmith/ar"
 	"github.com/goreleaser/chglog"
-	"github.com/goreleaser/nfpm/v2"
+	"github.com/defanator/nfpm/v2"
 	"github.com/defanator/nfpm/v2/files"
-	"github.com/goreleaser/nfpm/v2/internal/sign"
+	"github.com/defanator/nfpm/v2/internal/sign"
 	"github.com/stretchr/testify/require"
 	"github.com/xi2/xz"
 )
@@ -1314,7 +1314,7 @@ func TestFields(t *testing.T) {
 			Overridables: nfpm.Overridables{
 				Deb: nfpm.Deb{
 					Fields: map[string]string{
-						"Bugs":  "https://github.com/goreleaser/nfpm/issues",
+						"Bugs":  "https://github.com/defanator/nfpm/issues",
 						"Empty": "",
 					},
 				},

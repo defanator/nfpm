@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/goreleaser/nfpm/v2"
+	"github.com/defanator/nfpm/v2"
 	"github.com/defanator/nfpm/v2/files"
 	"github.com/klauspost/compress/zstd"
 	"github.com/klauspost/pgzip"

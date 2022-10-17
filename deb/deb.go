@@ -17,10 +17,10 @@ import (
 
 	"github.com/blakesmith/ar"
 	"github.com/goreleaser/chglog"
-	"github.com/goreleaser/nfpm/v2"
-	"github.com/goreleaser/nfpm/v2/deprecation"
+	"github.com/defanator/nfpm/v2"
+	"github.com/defanator/nfpm/v2/deprecation"
 	"github.com/defanator/nfpm/v2/files"
-	"github.com/goreleaser/nfpm/v2/internal/sign"
+	"github.com/defanator/nfpm/v2/internal/sign"
 	gzip "github.com/klauspost/pgzip"
 	"github.com/ulikunitz/xz"
 )
